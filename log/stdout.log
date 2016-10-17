@@ -1,0 +1,14 @@
+Tue, 18 Oct 2016 01:32:08 smzdm.py[line:99] INFO 今日已领23积分，再签到19天可领30积分
+Tue, 18 Oct 2016 01:32:08 smzdm.py[line:124] INFO 18500385413 : 今日已领23积分，再签到19天可领30积分
+Tue, 18 Oct 2016 01:32:21 smzdm.py[line:99] INFO 今日已领23积分，再签到19天可领30积分
+Tue, 18 Oct 2016 01:32:21 smzdm.py[line:124] INFO 18500385413 : 今日已领23积分，再签到19天可领30积分
+Tue, 18 Oct 2016 01:33:02 smzdm.py[line:92] ERROR iamusername@gmail.com登录失败或已经签到!签到异常，请重试（code：1）
+Tue, 18 Oct 2016 01:34:38 smzdm.py[line:92] ERROR iamusername@gmail.com登录失败或已经签到!签到异常，请重试（code：1）
+Tue, 18 Oct 2016 01:34:41 smzdm.py[line:92] ERROR iamusername@gmail.com登录失败或已经签到!签到异常，请重试（code：1）
+Tue, 18 Oct 2016 01:34:41 smzdm.py[line:112] ERROR iamusername@gmail.com登录失败!
+Tue, 18 Oct 2016 01:34:41 smzdm.py[line:99] INFO 今日已领23积分，再签到19天可领30积分
+Tue, 18 Oct 2016 01:34:41 smzdm.py[line:121] INFO 18500385413 : 今日已领23积分，再签到19天可领30积分
+Tue, 18 Oct 2016 01:35:31 smzdm.py[line:112] ERROR iamusername@gmail.com登录失败!
+Tue, 18 Oct 2016 01:35:31 smzdm.py[line:121] INFO 18500385413 : 今日已领23积分，再签到19天可领30积分
+Tue, 18 Oct 2016 01:41:12 smzdm.py[line:113] ERROR iamusername@gmail.com登录失败!
+Tue, 18 Oct 2016 01:41:12 smzdm.py[line:122] INFO 18500385413 : 今日已领23积分，再签到19天可领30积分
