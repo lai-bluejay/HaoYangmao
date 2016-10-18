@@ -12,3 +12,11 @@ Tue, 18 Oct 2016 01:35:31 smzdm.py[line:112] ERROR iamusername@gmail.com登录�
 Tue, 18 Oct 2016 01:35:31 smzdm.py[line:121] INFO 18500385413 : 今日已领23积分，再签到19天可领30积分
 Tue, 18 Oct 2016 01:41:12 smzdm.py[line:113] ERROR iamusername@gmail.com登录失败!
 Tue, 18 Oct 2016 01:41:12 smzdm.py[line:122] INFO 18500385413 : 今日已领23积分，再签到19天可领30积分
+Wed, 19 Oct 2016 01:22:38 connectionpool.py[line:756] INFO Starting new HTTPS connection (1): api.smzdm.com
+Wed, 19 Oct 2016 01:26:13 smzdm.py[line:102] ERROR 18500385413已签到
+Wed, 19 Oct 2016 01:26:22 smzdm.py[line:146] INFO 18500385413 : 今日已领20积分，再签到18天可领30积分
+Wed, 19 Oct 2016 01:38:32 smzdm.py[line:126] ERROR 18500385413今日抽奖机会已用完
+Wed, 19 Oct 2016 01:38:55 smzdm.py[line:169] INFO 18500385413 : 今日已领20积分，再签到18天可领30积分
+Wed, 19 Oct 2016 01:40:20 smzdm.py[line:102] ERROR 18500385413已签到
+Wed, 19 Oct 2016 01:40:30 smzdm.py[line:128] ERROR 18500385413今日抽奖机会已用完
+Wed, 19 Oct 2016 01:40:41 smzdm.py[line:171] INFO 18500385413 : 今日已领20积分，再签到18天可领30积分
